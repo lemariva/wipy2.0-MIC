@@ -1,0 +1,3 @@
+[submodule "wipy-WS2812"]
+	path = wipy-WS2812
+	url = https://github.com/johannesgaa/wipy-WS2812.git
